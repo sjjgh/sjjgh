@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Jiajie Shi 👋
 
-<!--
-**sjjgh/sjjgh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Data Scientist and independent researcher with a Ph.D. in Mathematics (Computational Science).
+My work focuses on the intersection of **graph machine learning**, **network geometry**, and **biological data modeling**.
 
-Here are some ideas to get you started:
+## 🔬 Research Interests
+- Graph similarity, network geometry, and hyperbolic embeddings  
+- Social and complex networks  
+- General machine learning and generative models  
+- Multimodal single-cell foundation models  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 Notes & Writing
+More research notes, ideas, and blog-style articles will be released soon.  
+
+## 📬 Contact
+If you're interested in anything, feel free to reach out:  
+📧 **sjj1992[at]hotmail.com**
+
+
+

@@ -9,8 +9,8 @@ My work focuses on the intersection of **graph machine learning**, **network geo
 - General machine learning and generative models  
 - Multimodal single-cell foundation models  
 
-## 📚 Notes & Writing
-More research notes, ideas, and blog-style articles will be released soon.  
+## 📚 Personal Website：
+https://sjjgh.github.io/
 
 ## 📬 Contact
 If you're interested in anything, feel free to reach out:  

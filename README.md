@@ -1,5 +1,5 @@
 # Hi, I'm Jiajie Shi 👋
-
+<!--
 I am a Data Scientist and independent researcher with a Ph.D. in Mathematics (Computational Science).
 My work focuses on the intersection of **graph machine learning**, **network geometry**, and **biological data modeling**.
 
@@ -14,7 +14,7 @@ https://sjjgh.github.io/
 
 ## 📬 Contact
 If you're interested in anything, feel free to reach out:  
-📧 **sjj1992[at]hotmail.com**
+📧 **sjj1992[at]hotmail.com**  -->
 
 
 
